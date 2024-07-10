@@ -1,4 +1,5 @@
 Java Solution 
+ link - https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10
 class Solution {
     public int minOperations(String[] logs) {
         Stack<String> paths_stack = new Stack<>();
